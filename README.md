@@ -1,3 +1,3 @@
-# Akka Typed with Varv & Immutables
+# Akka Typed with Vavr & Immutables
 
-Port of the Akka Typed introduction examples to use Varv and Immutables.
+Port of the Akka Typed introduction examples to use Vavr and Immutables.
